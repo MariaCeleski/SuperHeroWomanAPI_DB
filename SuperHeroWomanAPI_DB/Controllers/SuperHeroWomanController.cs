@@ -51,6 +51,15 @@ namespace SuperHeroWomanAPI_DB.Controllers
                 }
 
             };
+        private readonly DataContext _context;
+
+        public SuperHeroWomanController(DataContext context)
+        {
+            _context = context;
+        }
+            
+
+
         [HttpGet("{id}")]
         public async Task<ActionResult<List<SuperHeroWoman>>> Get()
         {
