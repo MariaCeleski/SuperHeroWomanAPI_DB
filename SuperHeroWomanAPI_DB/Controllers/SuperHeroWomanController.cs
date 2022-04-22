@@ -57,7 +57,7 @@ namespace SuperHeroWomanAPI_DB.Controllers
         {
             _context = context;
         }
-
+        //Create endpoints
         [HttpGet]
         public async Task<ActionResult<List<SuperHeroWoman>>> Get()
         {
