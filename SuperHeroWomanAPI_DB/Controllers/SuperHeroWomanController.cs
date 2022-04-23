@@ -7,47 +7,47 @@ namespace SuperHeroWomanAPI_DB.Controllers
     [ApiController]
     public class SuperHeroWomanController : ControllerBase
     {
-         
+
         //private static List<SuperHeroWoman> heroes = new List<SuperHeroWoman>
         //    {
-        //        new SuperHeroWoman{
-        //            Id = 1,
-        //            Name = "Django Girls",
-        //            FirstName = "Ola",
-        //            LastName = "SitarskaSendecka",
-        //            Place = "Poland",
-        //            Actions = "Investment",
-        //            LocalActions = "Savings"
+        //new SuperHeroWoman{
+        //Id = 1,
+        //"name" : "Django Girls",
+        //"firstName" : "Ola",
+        //"lastName" : "SitarskaSendecka",
+        //"place" : "Poland",
+        //"actions" : "Investment",
+        //"localActions" : "Savings"
         //        },
 
-        //        new SuperHeroWoman{
-        //            Id = 2,
-        //            Name = "Programa Maria",
-        //            FirstName = "Empoderando",
-        //            LastName = "MeninasEMulheres",
-        //            Place = "Brazil",
-        //            Actions = "Investment",
-        //            LocalActions = "Stock Exchange"
+        //new SuperHeroWoman{
+        //Id = 2,
+        //"name" : "Programa Maria",
+        //"firstName" : "Empoderando",
+        //"lastName" : "MeninasEMulheres",
+        //"place" : "Brazil",
+        //"actions" : "Investment",
+        //"localActions" : "Stock Exchange"
         //        },
 
-        //        new SuperHeroWoman{
-        //            Id = 3,
-        //            Name = "GRACE",
-        //            FirstName = "Kalinka Branco",
-        //            LastName = "Maria Lydya Fioravanti",
-        //            Place = "Brazil",
-        //            Actions = "Investment",
-        //            LocalActions = "Savings"
+        //new SuperHeroWoman{
+        //Id = 3,
+        //"name" : "GRACE",
+        //"firstName" : "Kalinka Branco",
+        //"lastName" : "Maria Lydya Fioravanti",
+        //"place" : "Brazil",
+        //"actions" : "Investment",
+        //"localActions" : "Savings"
         //        },
 
-        //        new SuperHeroWoman{
-        //            Id = 4,
-        //            Name = "WoMakersCode",
-        //            FirstName = "Cynthia",
-        //            LastName = "Zanoni",
-        //            Place = "Brazil",
-        //            Actions = "Investment",
-        //            LocalActions = "Stock Exchange"
+        //new SuperHeroWoman{
+        //Id = 4,
+        //"name" : "WoMakersCode",
+        //"firstName" : "Cynthia",
+        //"lastName" : "Zanoni",
+        //"place" : "Brazil",
+        //"actions" : "Investment",
+        //"localActions" : "Stock Exchange"
         //        }
 
         //    };
