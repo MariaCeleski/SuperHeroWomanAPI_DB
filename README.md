@@ -2,7 +2,7 @@ SuperHeroWomanAPI_DB
 
 ## CRUD - API com integração no Banco de Dados SQL Server
 ### Desafio DIO - Bootcamp Banco Carrefour Woman 
-### Tema - Mulheres Empoderadas
+### Tema - Empoderamento Feminino
 
 Pacotes instalados:
 - Install-Package Microsoft.EntityFrameworkCore
