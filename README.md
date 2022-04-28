@@ -9,6 +9,8 @@ Pacotes instalados:
 - Install-Package Microsoft.EntityFrameworkCore.Design
 - Install-Package Microsoft.EntityFrameworkCore.SqlServer
 
-- Comandos do Migration executados para criação do banco
-- Add-Migration CreateInitial - Context Contexto
-- Update-database - Context Contexto
+- Comandos do Migration executados para criação do banco:
+
+  - 1 - dotnet ef migrations add CreateInitial
+
+  - 2 - dotnet ef database update
