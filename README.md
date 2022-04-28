@@ -14,3 +14,5 @@ Pacotes instalados:
   - 1 - dotnet ef migrations add CreateInitial
 
   - 2 - dotnet ef database update
+
+### Banco de Dados utilizado : SQL Server Management Studio
