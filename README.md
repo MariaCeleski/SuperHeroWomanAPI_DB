@@ -2,7 +2,7 @@ SuperHeroWomanAPI_DB
 ### Desafio DIO - Bootcamp Banco Carrefour Woman 
 ### Tema - Empoderamento Feminino
 
-### CRUD - API com integração no Banco de Dados SQL Server
+### CRUD - API com integração no Banco de Dados SQL Server (Express)
 ### Construído com .NET 6 WEB API & Entity Framework Core
 
 
